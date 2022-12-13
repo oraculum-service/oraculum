@@ -1,2 +1,2 @@
 # oraculum
-rework
+oraculum python package
