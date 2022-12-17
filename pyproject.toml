@@ -2,7 +2,7 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
-name = "oracula"
+name = "oraculum-service"
 version = "0.0.1"
 authors = [
     {name="Alexander Fedotov", email="alex.fedotov@aol.com"},

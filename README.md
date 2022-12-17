@@ -1,3 +1,3 @@
 # oraculum
 
-oraculum python package
+oraculum-service python package
